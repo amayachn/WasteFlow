@@ -21,3 +21,12 @@ CSS
 JavaScript
 PHP
 MySQL
+
+Developers
+
+Antoinette 
+Jia
+
+Purpose of the System
+
+The purpose of WasteFlow is to provide a smoother, faster, and more organized waste collection process for the community.
