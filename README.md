@@ -24,8 +24,8 @@ MySQL
 
 **Developers**
 
-Antoinette 
-Jia
+Antonette Salado
+Jia Marie Garong
 
 **Purpose of the System**
 
